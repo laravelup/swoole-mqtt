@@ -1,5 +1,5 @@
 {
-    "name": "zhzhxxxyy/swoole_mqtt",
+    "name": "laravelup/swoole-mqtt",
     "description": "swoole mqtt client",
     "license": "MIT",
     "authors": [{
