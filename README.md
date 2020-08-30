@@ -2,8 +2,10 @@
 Asynchronous MQTT client for PHP based on swoole.
 
 # Installation
-composer require laravelup/swoole_mqtt
 
+```
+composer require laravelup/swoole_mqtt
+```
 #安装ext-async扩展
 https://github.com/swoole/ext-async/releases
 
