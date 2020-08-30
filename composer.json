@@ -3,8 +3,8 @@
     "description": "swoole mqtt client",
     "license": "MIT",
     "authors": [{
-        "name": "zhzhxxxyy",
-        "email": "zhzhxxxyy@126.com"
+        "name": "laravelup",
+        "email": "laraveler@163.com"
     }],
     "minimum-stability": "dev",
     "require": {
